@@ -8,7 +8,7 @@ const Whatsapp = () => {
             <p>Chatea con nosotros</p>
         </div>
         <button>
-            <a href="https://wa.me/573134229281" text="Bienvenido%20a%20ColombiaGas.%20En%20que%20podemos%20ayudarle" 
+            <a href="https://wa.me/573134229281&text=Bienvenido!%20a%20ColombiaGas.%20En%20que%20podemos%20ayudarle." 
 		target="_blank" rel="noopener noreferrer">
                 <img src="/icon/whatsapp.svg" alt="icono de contacto por whatsapp" />
             </a>
