@@ -14,7 +14,7 @@ const Index = () => {
             <img className="person" src="/img/banner/person-4.webp" alt="" loading="eager" />
             <div className="text-wrapper">
                 <p className="texto-1">Colombiagas vehicular te ofrece respaldo y los equipos especializados para realizar el mantenimiento de su vehículo</p>
-                <h2 className="texto-2">$ 50.000</h2>
+                <h2 className="texto-2"></h2>
                 <h1 className="texto-3">¡Pide tu cita ahora!</h1>
             </div>
         </Banner>
