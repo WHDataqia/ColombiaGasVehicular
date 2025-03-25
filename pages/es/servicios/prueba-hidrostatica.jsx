@@ -13,7 +13,7 @@ const Index = () => {
             <img className="person" src="/img/banner/person-2.webp" alt="" loading="eager" />
             <div className="text-wrapper">
                 <p className="texto-1">COLOMBIAGAS VEHICULAR TE HACE LA PRUEBA HIDROSTÁTICA</p>
-                <h2 className="texto-2">$ 250.000</h2>
+                <h2 className="texto-2"></h2>
                 <h1 className="texto-3">¡Pide tu cita ahora!</h1>
             </div>
         </Banner>
