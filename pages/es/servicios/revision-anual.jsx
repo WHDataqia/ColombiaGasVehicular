@@ -14,7 +14,7 @@ const Index = () => {
             <div className="text-wrapper">
                 <p className="texto-1">Siempre con cuidado, prevenga cualquier daño mayor con la revisión anual de su vehículo</p>
                 <h2 className="texto-2">COLOLOMBIAGAS VEHICULAR  TE OFRECE EL MEJOR SERVICIO PARA TU REVISIÓN ANUAL</h2>
-                <h1 className="texto-3">$75.000</h1>
+                <h1 className="texto-3"></h1>
             </div>
         </Banner>
 
