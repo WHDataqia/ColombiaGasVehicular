@@ -85,7 +85,6 @@ const SliderMain = () => {
                         <h3>LA FUERZA<br />INVISIBLE QUE<br />MUEVE EL<br />PAÍS</h3>
                     </div>
                 </li>
-
                 <li>
                     <div className="slide slide-3">
                         <h3>APORTA A LA <br />DESCONTAMINACIÓN <br /> DEL AIRE</h3>
